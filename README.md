@@ -21,7 +21,7 @@ O arquivo `home.html` foi utilizado para criar uma página dedicada à exibiçã
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/capacitacao-tailwind-css.git
+   git clone https://github.com/seu-usuario/CapTailwindCSS.git
 
 
 Sinta-se à vontade para explorar, aprender e adaptar o código conforme necessário. Happy coding! 🚀
